@@ -1,0 +1,6 @@
+C:\Users\Yigit\Desktop\visual proje\MSS\MSS\obj\Debug\MSS.csproj.AssemblyReference.cache
+C:\Users\Yigit\Desktop\visual proje\MSS\MSS\obj\Debug\MSS.Satis.resources
+C:\Users\Yigit\Desktop\visual proje\MSS\MSS\obj\Debug\MSS.Properties.Resources.resources
+C:\Users\Yigit\Desktop\visual proje\MSS\MSS\obj\Debug\MSS.ÜrünEkle.resources
+C:\Users\Yigit\Desktop\visual proje\MSS\MSS\obj\Debug\MSS.csproj.GenerateResource.cache
+C:\Users\Yigit\Desktop\visual proje\MSS\MSS\obj\Debug\MSS.csproj.CoreCompileInputs.cache
